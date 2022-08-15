@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FCE4EC&height=200&section=header&text=Jukdang&fontSize=60&fontColor=000000)
 
-<div align=center><h3>Tech STACKS</h3></div>
+## Tech STACKS
 <div align=left> 
   <h5>Using : </h5>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -30,10 +30,14 @@
   
 </div>
 
+---
+
 ### Github STATS
 
 [![Jukdang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukdang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukdang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Baekjoon Tier
 
