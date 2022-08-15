@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Jukdang&fontSize=60)
 
-<div align=center><h3>STACKS</h3></div>
+<div align=center><h3>Tech STACKS</h3></div>
 <div align=center> 
-  <br>
   <h5>Using
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
