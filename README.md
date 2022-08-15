@@ -7,7 +7,7 @@
   <a href="mailto:jukdang479@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jukdang479@gmail.com"/></a>
 
 
-## Tech STACKS
+## :books: Tech STACKS 
 <div align=left> 
   <h5>Using : </h5>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
