@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/2022jukdang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/2022jukdang/"/></a>
   <a href="mailto:jukdang479@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jukdang479@gmail.com"/></a>
 
+------
 
 ## :books: Tech STACKS 
 <div align=left> 
