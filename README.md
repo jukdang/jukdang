@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FCE4EC&height=200&section=header&text=Jukdang&fontSize=60&fontColor=000000)
 
+##### student studying Computer Science, especially Deep Learning!
+🌈 Follow Me 🌈
+
+  <a href="https://www.linkedin.com/in/2022jukdang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/2022jukdang/"/></a>
+  <a href="mailto:jukdang479@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jukdang479@gmail.com"/></a>
+
+
 ## Tech STACKS
 <div align=left> 
   <h5>Using : </h5>
