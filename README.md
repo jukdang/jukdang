@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Jukdang&fontSize=60)
 
 <div align=center><h3>STACKS</h3></div>
-
 <div align=center> 
-
   <br>
   <h5>Using
   <br>
