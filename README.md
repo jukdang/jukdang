@@ -30,10 +30,11 @@
   
 </div>
 
-<div align=center><h3>Github STATS</h3></div>
+### Github STATS
 
 [![Jukdang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukdang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukdang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center><h3>Solved.ac Tier</h3></div>
+### Baekjoon Tier
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jukdang)](https://solved.ac/jukdang)
