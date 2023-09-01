@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FCE4EC&height=200&section=header&text=sagom&fontSize=60&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCE4EC&height=200&section=header&text=jukdang&fontSize=60&fontColor=000000)
 
 ##### I am student studying Computer Science :seedling:
 :blossom: Follow Me :blossom:
